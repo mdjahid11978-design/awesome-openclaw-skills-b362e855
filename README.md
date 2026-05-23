@@ -92,7 +92,7 @@ OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as 
 
 This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. 
 
-Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Please submit links to the GitHub source only (not `clawskills.sh` URLs) — the clawskills.sh listings are managed by us separately. Include both the ClawHub link (e.g. `https://clawhub.ai/steipete/slack`) and the GitHub link (e.g. `https://github.com/openclaw/skills/tree/main/skills/steipete/slack`) in your PR description. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
 ## OpenClaw Ecosystem Tools
