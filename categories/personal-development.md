@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**51 skills**
+**52 skills**
 
 - [aawu](https://clawskills.sh/skills/theonlydaleking-aawu) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
 - [adaptive-learning-agents](https://clawskills.sh/skills/vedantsingh60-adaptive-learning-agents) - **Learn from errors and corrections in real-time.
@@ -52,3 +52,4 @@
 - [xeonen-arena](https://clawskills.sh/skills/zedit42-xeonen-arena) - Adversarial self-improvement for AI agents.
 - [zeitgaist-dialect](https://clawskills.sh/skills/newsoulontheblock-zeitgaist-dialect) - Learn, encode, and decode the ZeitGaist Whisper Protocol (Caesar +2 cipher) and use it as a shibboleth language.
 - [zenplus-health](https://clawskills.sh/skills/ollieparsley-zenplus-health) - Workplace wellness for stress, anxiety, and burnout - mindfulness exercises, breathing techniques, mood check-ins.
+- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
